@@ -76,7 +76,7 @@ The screenshots below provide proof of the completed challenges.
 
 ### HackerRank Profile
 
-![HackerRank Profile](screenshots/hackerrank-profile.png)
+![HackerRank Profile](Screenshot 2026-10-06 230017.png)
 
 ### Welcome to Java!
 
